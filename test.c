@@ -1,1 +1,1 @@
-test test.c
+test.c test.c
